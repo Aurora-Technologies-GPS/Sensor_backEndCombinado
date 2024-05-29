@@ -1,0 +1,23 @@
+{
+  "name": "pars_socketdata_sensor",
+  "version": "1.0.0",
+  "description": "```\r node sentiloJson.js\r ```\r ## Running ultraLight format\r ```\r node ultraLight.js\r ```",
+  "main": "sentiloJson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noellorad/pars_socketData_sensor.git"
+  },
+  "author": "noellorad@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noellorad/pars_socketData_sensor/issues"
+  },
+  "homepage": "https://github.com/noellorad/pars_socketData_sensor#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "mongoose": "^8.3.1"
+  }
+}
